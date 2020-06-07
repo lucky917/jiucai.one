@@ -4,12 +4,14 @@
 
 -----
 
-## 交易所免翻网址
+## 网址导航 
 
-[火币](https://www.huobi.me/zh-cn/)
+### 交易所网址(免翻)
 
-> 区块链作为金融互联网新技术，不可避免地会涉及到投资和投机 —— 而对绝大多数普通人来说：
->
+[火币](https://www.huobi.me/zh-cn/) [OKEx](https://www.okex.me/) [GateIO](https://www.gatecn.io/)
+
+### 合约相关
+
 > > **投资有风险，决策需谨慎！**
 
 ## 前言
